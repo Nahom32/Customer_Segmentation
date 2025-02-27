@@ -1,2 +1,2 @@
-shap
-streamlit_option_menu
+streamlit-option-menu
+plotly
