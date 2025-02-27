@@ -4,12 +4,8 @@ import pandas as pd
 import numpy as np
 import pickle
 import plotly.express as px
-import shap
-import matplotlib.pyplot as plt
 import os
 from sklearn.ensemble import RandomForestClassifier
-import shap
-import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 
